@@ -27,7 +27,7 @@
 			VOTE_VISIBILITY_TOGGLE : 'toggle'
 		});
 	//card deck.
-	planningShark.app.constant('deck', {a: ['0', '1/2', '1', '2', '3', '5', '8', '13', '20', '40', '100', '?', 'caffeine'], b: ['0', '1', '2', '4', '8', '16', '32', '64', '128', '?']});
+	planningShark.app.constant('deck', {a: ['1', '2', '3', '5', '8', '13']});
 
 
 })(this.planningShark = this.planningShark || {});
